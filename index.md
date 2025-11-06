@@ -1,9 +1,11 @@
 # TriHexΦ Public Mirror — 今日の入口
 
-最終更新: 2025/11/06 09:14:29 JST
+最終更新: 2025/11/06 10:58:59 JST
 
 ## 最新 Proofs (Top 10)
 
+- [S3_Protocol_Manifest_2025-11-07.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/S3_Protocol_Manifest_2025-11-07.md)
+- [Workflow_Fixes_Report_2025-11-06.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/Workflow_Fixes_Report_2025-11-06.md)
 - [PR_Ledger_2025-11-06-00-01-37.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/PR_Ledger_2025-11-06-00-01-37.md)
 - [PR_Ledger_LATEST.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/PR_Ledger_LATEST.md)
 - [S3_Systems_Bootstrap_2025-11-06.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/S3_Systems_Bootstrap_2025-11-06.md)
@@ -12,11 +14,10 @@
 - [DIFF_REPORT.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/DIFF_REPORT.md)
 - [INVENTORY_SUMMARY.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/INVENTORY_SUMMARY.md)
 - [MAP_VAULT_ASSIGNMENT.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/MAP_VAULT_ASSIGNMENT.md)
-- [NORMALIZE_PLAN.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/NORMALIZE_PLAN.md)
-- [SeventhSense_Rename_Proof_2025-11-06.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/SeventhSense_Rename_Proof_2025-11-06.md)
 
 ## SeventhSense Proofs (Top 10)
 
+- [SEVENTHSENSE_1762394228228.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/SeventhSense/SEVENTHSENSE_1762394228228.md)
 - [SEVENTHSENSE_1762376737488.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/SeventhSense/SEVENTHSENSE_1762376737488.md)
 - [SEVENTHSENSE_1762377807636.md](https://github.com/kyousuke10000/TriHexPhi-public/blob/main/99_SYSTEM/Proofs/SeventhSense/SEVENTHSENSE_1762377807636.md)
 
